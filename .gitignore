@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+.Trash
+
+# PreConvert folder (source files)
+PreConvert/
+
+# Keep only PostConvert for the markdown files
+!PostConvert/
